@@ -1,0 +1,10 @@
+body {
+    color: darkblue;
+}
+.class {
+    color: white;
+    padding: 10px;
+    border-color: black;
+    border-radius: 5px;
+    margin: 10%;
+}
